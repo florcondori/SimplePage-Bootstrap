@@ -1,0 +1,57 @@
+
+img[alt="logo"]{
+	width: 150px;
+	height: auto;
+}
+
+body{
+	font-family: 'Montserrat', sans-serif;
+}
+
+header{
+	position: relative;
+	padding-top: 84px;
+	padding-bottom: 84px;
+}
+
+header nav{
+	position: fixed;
+	width: 100%;
+	top: 0;
+	left: 0;
+	height: 70px;
+	background-color: #fff;
+}
+
+header nav ul{
+	line-height: 70px;
+	text-align: right;
+	padding-right: 80px;
+}
+
+nav ul li a{
+	text-transform: uppercase;
+	color: #000;
+}
+
+header h1{
+	margin: 0;
+	margin-left: 30PX;
+	line-height: 70PX;
+}
+
+header .action img{
+	width: 80px;
+	margin: 15px 0;
+}
+
+header .action h1{
+	font-size: 2em;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.action .btn{
+	margin-top: 15px;
+	text-transform: uppercase;
+}
